@@ -9,6 +9,6 @@ Welcome to the Button Control project! This project is all about controlling a b
 - **Database Connection**: The PHP backend connects to a MariaDB database to store the button state.
 
 ## Getting Started 🏁
-you can see trough the developer tools network section what state is send or going to [backend](https://niisku.lab.fi/~x108669/iot/server.php)
-open the website browser to see the project in action! [button link](https://niisku.lab.fi/~x108669/iot/)
+- You can see trough the developer tools network section what state is send or going to [backend](https://niisku.lab.fi/~x108669/iot/server.php)
+- Open the website to see the project in action! [button link](https://niisku.lab.fi/~x108669/iot/)
 
