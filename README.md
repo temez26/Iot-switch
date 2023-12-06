@@ -1,6 +1,6 @@
 # Button Control Project 🕹️
 
-Welcome to the Button Control project! This project is all about controlling a button's state using a PHP backend and JavaScript frontend. The button can be toggled between two states: "On" and "Off". 
+Welcome to the Button Control project! This project is all about controlling a button's state using a PHP backend and JavaScript frontend. The button can be toggled between two states: "On" and "Off".
 
 ## Features 🚀
 
@@ -13,9 +13,5 @@ Welcome to the Button Control project! This project is all about controlling a b
 1. **Clone the repository** to your local machine using `git clone`.
 2. **Set up the database** using the provided SQL script.
 3. **Start the PHP server** and navigate to the project directory.
-4. **Open `index.html`** in your browser to see the project in action!
-
-
-
-
+4. **Open `index.php`** in your browser to see the project in action! [Project Link](https://niisku.lab.fi/~x108669/iot/)
 
